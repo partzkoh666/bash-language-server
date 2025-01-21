@@ -1,3 +1,13 @@
+      
+
+     🇵🇭🇵🇭😚♥️😚♥️ 
+
+
+       BPARTZKOH 
+
+
+
+
 # Bash Language Server
 
 Bash language server that brings an IDE-like experience for bash scripts to most editors. This is based on the [Tree Sitter parser][tree-sitter-bash] and supports [explainshell][explainshell], [shellcheck][shellcheck] and [shfmt][shfmt].
