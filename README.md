@@ -44,6 +44,8 @@ But if you want to install the server binary (for examples for editors, like hel
 npm i -g bash-language-server
 ```
 
+...$#_P_A_R_T_Z_K_O_H
+
 Alternatively, bash-language-server may also be distributed directly by your Linux distro, for example on Fedora based distros:
 
 ```bash
